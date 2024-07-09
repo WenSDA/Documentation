@@ -11,4 +11,4 @@ HA WebGUI Port: 8123
 HA MAC:
 ```
 
-HA controls smart plugs around the church, including spot lights, audio equipment, and Christmas lights during Christmas. Most of these smart plugs are fiet electric. The two for either side of the sanctuary's spotlights are Kauf smartplugs and can be found on (Amazon)[https://www.amazon.com/KAUF-Monitoring-ESPHome-Compatible-Assistant/dp/B0BJLGNPPX?th=1] or on their (GitHub Repo)[https://github.com/KaufHA/PLF12]
+HA controls smart plugs around the church, including spot lights, audio equipment, and Christmas lights during Christmas. Most of these smart plugs are fiet electric. The two for either side of the sanctuary's spotlights are Kauf smartplugs and can be found on [Amazon](https://www.amazon.com/KAUF-Monitoring-ESPHome-Compatible-Assistant/dp/B0BJLGNPPX?th=1) or on their [GitHub Repo](https://github.com/KaufHA/PLF12)
