@@ -32,4 +32,6 @@ HA MAC:
 
 ## [HA Button Panels](HA-Button-Panels.md)
 
+![Home Assistant Button Panel](./Images/HAButtonPanel-StageBox.jpg)
+
 Custom button panels communicate with HA to turn on lights, sound equipment, Christmas lights, and do other things. They are ESP32 or ESP8266 powered, and are fully reprogrammable if necessary. Click [here](HA-Button-Panels.md) for more information.
