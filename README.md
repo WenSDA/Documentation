@@ -38,7 +38,7 @@ Custom button panels communicate with HA to turn on lights, sound equipment, Chr
 
 ## Piano Microphones
 
-![Piano Microphone](./Images/Piano-mic.jpg)
+![Piano Microphone](./Images/Piano-Mic.jpg)
 
 The Piano is mic'd with 2 small diaphragm condenser mics from rode, and a behringer full range tuning microphone on the high end. The [clips](https://github.com/PKCubed/PianoMicMount) to mount these mics to the piano trusses were 3D printed with PETG plastic.
 
