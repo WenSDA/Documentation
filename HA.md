@@ -21,3 +21,7 @@ This means that you can go to ha.wenatcheeadventist.org, and that traffic goes t
 Its also configured to proxy nginx.wenatcheeadventist.org to 10.0.1.3:81, which is the IP and Port of the Nginx Proxy Manager add-on. This gives authorized users access to the Nginx Proxy Manager Web GUI where they can configure the proxy hosts, SSL information, and other functions.
 
 The HTTPS SSL certifacates come from Let's Encrypt under the email address wensdamedia@gmail.com.
+
+## DMX Spotlights
+
+Home Assistant is configured to control the stage spotlights via DMX. A "hack" within HACS allows data to be sent using the ArtNet protocall to a set IP Address. With this, DMX lights show up as regular HA lights in the HA dashboard.
